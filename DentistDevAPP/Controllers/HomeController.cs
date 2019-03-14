@@ -12,7 +12,7 @@ namespace DentistDevAPP.Controllers
         {
             return View();
         }
-
+        // sample 
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
